@@ -1,0 +1,17 @@
+Simple kernel module.
+Single thread in a kernel module.
+Multi threaded kernel module
+Single thread going through the vfs list and printing mount information.
+Thread occasionally going through open file list and printing information.
+Hot Cold analysis of mounted file system.
+Top half and bottom half.
+User - kernel communication and back
+User space threads.
+Kernel to userspace communications.
+
+Study of VSAN, hyperconverged architectures - Springpath FS, Tintri FS, Nutanix FS and comparision.
+Cloud - AWS model  
+btrfs and zfs study.
+
+algorithms
+b+ trees.
